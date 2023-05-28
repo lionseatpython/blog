@@ -12,6 +12,7 @@ number: the number we want to round
 ndigits: is the number of decimal places we're looking to round `number` to.
 
 For an example like rounding `3.668` to two decimal places, we say:
+
 ```python
 
 round(3.668, 2)
